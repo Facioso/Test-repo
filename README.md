@@ -1,6 +1,6 @@
 # Test-repo
 This is my first repository.
 I am learning how to use GitHub.
-# Hello from MAIN branch
+# Hello after having resolved the conflict
 
 
